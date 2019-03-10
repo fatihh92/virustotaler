@@ -1,6 +1,6 @@
 # USAGE
 
-<pre>:warning: <b>You need an  API key.</b></pre>
+:warning:<b>You need an  API key.</b>
 
 ![image](usage.png)
 
