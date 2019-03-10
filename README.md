@@ -1,7 +1,6 @@
 # USAGE
-<aside class="notice">
-You need an  API key.
-</aside>
+
+<pre>:warning: <b>You need an  API key.</b></pre>
 
 ![image](usage.png)
 
